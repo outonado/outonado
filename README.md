@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá meu nome é Daniel. Eu estou atualmente estudando algoritmos e procuro ampliar meu conhecimento nessa área de tecnologia. Estarei compartilhando meus exercícios e notas por aqui.
 
-<!--
-**outonado/outonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```C
+#include <stdio.h>
 
-Here are some ideas to get you started:
+int main(int argc, char *argv[]) {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    char *langs[1] = {"C"];
+    char *aboutme[52] = {"Apenas um estudante comum aprendendo algoritmos"];
+    return 0;
+
+   }
+
+}
+```
+
