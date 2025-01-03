@@ -1,4 +1,4 @@
-Olá meu nome é Daniel. Eu estou atualmente estudando algoritmos e procuro ampliar meu conhecimento nessa área de tecnologia. Estarei compartilhando meus exercícios e notas por aqui.
+Bem-vindo ao meu perfil.
 
 ```C
 #include <stdio.h>
